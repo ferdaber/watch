@@ -1,0 +1,21 @@
+{
+  "name": "watch",
+  "version": "1.0.0",
+  "description": "A simple watcher that creates reactive properties and cacheable computed properties for an object",
+  "main": "watch.js",
+  "scripts": {
+    "test": "node_modules/.bin/jest"
+  },
+  "files": [
+    "lib"
+  ],
+  "keywords": [
+    "watch",
+    "computed"
+  ],
+  "author": "Ferdy Budhidharma",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
